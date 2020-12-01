@@ -5,4 +5,4 @@ I like to write software. I believe that being part of a good team is more impor
 
 👨🏻‍💻 **Stack:** `Ruby` `Go` `Python` `JavaScript`  
 🪴 **Home:** [`https://shiftingphotons.dev`](https://shiftingphotons.dev)  
-🏄🏽‍♂️ **Contributions:** Still looking for a Go or Python based repositories to which I can be helpful.
+🏄🏽‍♂️ **Contributions:** Still looking for repositories to which I can be helpful.
