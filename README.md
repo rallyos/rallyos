@@ -1,8 +1,7 @@
-### Hey there 👋
+<h3 align="center">👋 Hey there</h3>
+<p align="center">
+I believe that being part of a good team is more important than what language or tool we use.
+</p>
 
-
-:dark_sunglasses: I like to write software.  
-:vulcan_salute: I believe that being part of a good team is more important than what language or tool we use.
-
-:bowtie: Check [my place on the internet to find more about me](https://shiftingphotons.dev) or just quick jump here for ~[my resume](https://shifting-photons.dev/resume)~.
-
+👨🏻‍💻 **Stack:** `Ruby` `Go` `Python` `JavaScript`  
+🪴 **Home:** [`https://shiftingphotons.dev`](https://shiftingphotons.dev)
