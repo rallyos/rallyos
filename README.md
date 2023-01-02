@@ -5,5 +5,5 @@ I started as a Python developer, but quickly found out how addicting is to learn
 ---
 
 👨🏻‍💻 **Stack:** `Ruby` `Go` `Python` `JavaScript`  
-🪴 **Home:** [`https://rallyo.dev`](https://rallyos.dev)  
+🪴 **Home:** [`https://rallyo.dev`](https://rallyos.io)  
 🏄🏽‍♂️ **Contributions:** Still looking for repositories to which I can be helpful.
